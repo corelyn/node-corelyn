@@ -1,0 +1,16 @@
+{
+  "name": "@corelyn/corelyn-node",
+  "version": "1.0.1",
+  "description": "NodeJS SDK for Corelyn AI API",
+  "main": "index.js",
+  "keywords": [
+    "AI",
+    "Corelyn",
+    "NodeJS"
+  ],
+  "author": "Cory Jame (Prankapple)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.6"
+  }
+}

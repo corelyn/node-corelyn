@@ -5,7 +5,7 @@ class CorelynSDK {
     this.apiKey = apiKey;
     this.defaultModel = defaultModel;
     this.systemPrompt = systemPrompt;
-    this.BASE_URL = "https://corelyncloud-backend.onrender.com/chat/completions";
+    this.BASE_URL = "https://api.corelyn.ro/chat/completions";
   }
 
   setModel(model) {

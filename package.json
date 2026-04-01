@@ -1,6 +1,6 @@
 {
   "name": "@corelyn/corelyn-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NodeJS SDK for Corelyn AI API",
   "main": "index.js",
   "keywords": [

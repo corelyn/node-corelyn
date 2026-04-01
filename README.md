@@ -1,6 +1,6 @@
-# node-corelyn
+# corelyn-node
 
-**node-corelyn** is a Node.js SDK for interacting with the Corelyn AI API. It provides both synchronous-like (Promise-based) and async/await methods for sending prompts and receiving AI-generated responses.
+**corelyn-node** is a Node.js SDK for interacting with the Corelyn AI API. It provides both synchronous-like (Promise-based) and async/await methods for sending prompts and receiving AI-generated responses.
 
 ---
 
@@ -19,7 +19,7 @@
 ## Installation
 
 ```bash
-npm install node-corelyn
+npm install @corelyn/corelyn-node
 ```
 
 ---
@@ -27,7 +27,7 @@ npm install node-corelyn
 ## Quick Start
 
 ```javascript
-const CorelynSDK = require("node-corelyn");
+const CorelynSDK = require("@corelyn/corelyn-node");
 
 // Initialize SDK with your API key
 const sdk = new CorelynSDK("YOUR_API_KEY_HERE");
